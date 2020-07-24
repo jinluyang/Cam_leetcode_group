@@ -1,3 +1,4 @@
+// 想复杂了，实际就跟奇偶有关
 class Solution {
 public:
     vector<int> getFactor(int N) {
